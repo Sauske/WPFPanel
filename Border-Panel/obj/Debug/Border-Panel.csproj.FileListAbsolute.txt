@@ -1,0 +1,14 @@
+C:\Github\WPFPanel\Border-Panel\bin\Debug\Border-Panel.exe.config
+C:\Github\WPFPanel\Border-Panel\bin\Debug\Border-Panel.exe
+C:\Github\WPFPanel\Border-Panel\bin\Debug\Border-Panel.pdb
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.csprojAssemblyReference.cache
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.g.cs
+C:\Github\WPFPanel\Border-Panel\obj\Debug\App.g.cs
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel_MarkupCompile.cache
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel_MarkupCompile.lref
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.baml
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.g.resources
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border_Panel.Properties.Resources.resources
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.csproj.GenerateResource.cache
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.exe
+C:\Github\WPFPanel\Border-Panel\obj\Debug\Border-Panel.pdb

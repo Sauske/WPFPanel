@@ -1,0 +1,11 @@
+C:\Github\WPFPanel\Application\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Github\WPFPanel\Application\obj\Debug\DockPanel.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\Grid.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\MainWindow.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\StackPanel.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\UniformGrid.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\ViewBox.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\WrapPanel.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\App.g.cs
+C:\Github\WPFPanel\Application\obj\Debug\Application_MarkupCompile.cache
+C:\Github\WPFPanel\Application\obj\Debug\Application_MarkupCompile.lref
